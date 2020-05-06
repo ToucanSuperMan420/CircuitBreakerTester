@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreakerGUI", "CircuitBreakerGUI\CircuitBreakerGUI.csproj", "{A0E4F15B-AB00-4FCE-B21B-D8564EBAD4EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "..\CircuitBreakerPAtternProject\WcfService\WcfService.csproj", "{54918A81-1999-4BAF-BA4E-A0F3B40E098D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{54918A81-1999-4BAF-BA4E-A0F3B40E098D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

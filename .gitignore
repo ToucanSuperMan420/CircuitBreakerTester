@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CircuitBreakerGUI/bin
+/CircuitBreakerGUI/obj
+/WcfService/bin
+/WcfService/obj
